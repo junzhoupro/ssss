@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fragshader-reflection.glsl</file>
+        <file>shaders/fragshader-isophotes.glsl</file>
+        <file>shaders/vertshader.glsl</file>
+        <file>shaders/fragshader-fixednormal.glsl</file>
+    </qresource>
+</RCC>

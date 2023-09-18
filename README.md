@@ -2,6 +2,8 @@
 
 https://www.mdpi.com/2073-431X/12/4/85
 
+
+
 ## How to use this project:
 1. Use Qt to run the program.
 2. Load a model using the “Load OBJ file” button.
@@ -10,6 +12,8 @@ https://www.mdpi.com/2073-431X/12/4/85
 4. Enable normal subdivision with the options in the “Subdivision left view” field.
 5. Specify the preferred blending method with the options in the “Blend normals” field.
 6. Visualize certain properties of your subdivided model with the options under “Draw mode” and “Colour mode”.
+
+![Alt text](https://raw.githubusercontent.com/junzhoupro/ssss/blob/main/subdivision-shading/figs/ui1.png)
 
 ## Specification of .sharp files:
 The sharp files are a preset of sharpness values for a model. The file consists of a list of sharpness values for each face in the model in the order the faces appear in their respective .OBJ file. Each line consists of either of the following 2 options:
